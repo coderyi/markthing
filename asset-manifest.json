@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/markdown-editor/static/css/main.dd00094f.chunk.css",
+    "main.js": "/markdown-editor/static/js/main.397aab29.chunk.js",
+    "main.js.map": "/markdown-editor/static/js/main.397aab29.chunk.js.map",
+    "runtime-main.js": "/markdown-editor/static/js/runtime-main.5bc1c314.js",
+    "runtime-main.js.map": "/markdown-editor/static/js/runtime-main.5bc1c314.js.map",
+    "static/js/2.13a93df8.chunk.js": "/markdown-editor/static/js/2.13a93df8.chunk.js",
+    "static/js/2.13a93df8.chunk.js.map": "/markdown-editor/static/js/2.13a93df8.chunk.js.map",
+    "index.html": "/markdown-editor/index.html",
+    "precache-manifest.8c35d42254f4464682954c4d96da9d41.js": "/markdown-editor/precache-manifest.8c35d42254f4464682954c4d96da9d41.js",
+    "service-worker.js": "/markdown-editor/service-worker.js",
+    "static/css/main.dd00094f.chunk.css.map": "/markdown-editor/static/css/main.dd00094f.chunk.css.map",
+    "static/js/2.13a93df8.chunk.js.LICENSE.txt": "/markdown-editor/static/js/2.13a93df8.chunk.js.LICENSE.txt",
+    "static/media/github.svg": "/markdown-editor/static/media/github.c1763e6a.svg",
+    "static/media/theme_icon.svg": "/markdown-editor/static/media/theme_icon.fc96cec2.svg",
+    "static/media/tick.svg": "/markdown-editor/static/media/tick.5fcbdf03.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5bc1c314.js",
+    "static/js/2.13a93df8.chunk.js",
+    "static/css/main.dd00094f.chunk.css",
+    "static/js/main.397aab29.chunk.js"
+  ]
+}
