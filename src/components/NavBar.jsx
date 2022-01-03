@@ -13,7 +13,7 @@ function NavBar() {
         <ThemeToggle />
         <img
           onClick={() =>
-            window.open("https://github.com/")
+            window.open("https://github.com/coderyi/markdown-editor")
           }
           className="github"
           src={GitHub}
