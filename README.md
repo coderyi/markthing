@@ -1,5 +1,5 @@
 
-# markdown-editor
+# markthing
 
 一个MarkDown编辑器
 

@@ -16,7 +16,7 @@ function DarkModeToggle() {
   }, [isDarkMode]);
 
   useEffect(() => {
-    const styleSheet = `markdown-editor/styles/${isCodeDark ? "dark" : "light"}.css`;
+    const styleSheet = `markthing/styles/${isCodeDark ? "dark" : "light"}.css`;
     document.getElementById("code-stylesheet").setAttribute("href", styleSheet);
   }, [isCodeDark]);
 
