@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/markthing/precache-manifest.e31441de8004816880ef7e97e412d49a.js"
+  "/markthing/precache-manifest.0413c0ee2b1bc39a75ce52038404dfd1.js"
 );
 
 self.addEventListener('message', (event) => {
